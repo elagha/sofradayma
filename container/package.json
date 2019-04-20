@@ -1,0 +1,25 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-apple-iphone8-gold": "^1.0.0",
+		"@types/react": "^16.4.16"
+	},
+	"peerDependencies": {
+		"framer": "^0.10",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "b4956274-9805-480f-b7c3-5e426a350d32"
+	},
+	"author": "Badr AlKhamissi",
+	"dependencies": {
+		"@framer/benjamin.icon-generator": "^1.12.0",
+		"@framer/benjamin.input": "^1.1.0",
+		"@framer/clayton.form-select": "^1.5.0",
+		"@framer/edoardo.ios-kit": "^1.4.0",
+		"@framer/marcopesani.font-awesome-free": "^1.1.0",
+		"@framer/maxsteitle.progress-bar": "^1.2.0"
+	}
+}
